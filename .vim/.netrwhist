@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/media/storage/home/jgalan/rest-framework/source/libraries/raw/pipeline/processes/shaping'
+let g:netrw_dirhist_2='/media/storage/home/jgalan/rest-framework/source/libraries/raw/pipeline/processes'
+let g:netrw_dirhist_3='/media/storage/home/jgalan/rest-framework/source/libraries/raw/pipeline/processes/commonNoise'
+let g:netrw_dirhist_4='/media/storage/home/jgalan/rest-framework/source/libraries/raw/pipeline/processes'
+let g:netrw_dirhist_5='/media/storage/home/jgalan/rest-framework/source/libraries/raw/pipeline/processes/veto'
+let g:netrw_dirhist_6='/media/storage/home/jgalan/rest-framework/source/libraries/detector'
+let g:netrw_dirhist_7='/media/storage/home/jgalan/rest-framework/source/packages/restG4/examples/07.FullChainDecay'
