@@ -1,6 +1,11 @@
 set foldmethod=syntax
 
 syntax on
+
+nnoremap <F5> :buffers<CR>:buffer<Space>
+nnoremap <F6> :b#<CR>
+
+
 filetype plugin indent on
 " show existing tab with 4 spaces width
 set tabstop=4
